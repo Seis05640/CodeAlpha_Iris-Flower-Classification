@@ -1,5 +1,4 @@
-🌸 Iris Flower Classification Project
-
+**🌸 Iris Flower Classification Project**
 This project uses the classic Iris dataset to build a simple machine learning classifier that predicts the species of an Iris flower based on its physical measurements.
 It was completed as part of my Data Science Internship at CodeAlpha.
 
@@ -28,7 +27,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone (https://github.com/Seis05640/CodeAlpha_Iris-Flower-Classification)
+git clone https://github.com/Seis05640/CodeAlpha_Iris-Flower-Classification
 cd CodeAlpha_Iris-Flower-Classification
 Install dependencies:
 
@@ -50,4 +49,4 @@ Thanks to CodeAlpha for providing this learning opportunity and guiding me throu
 
 📌 Contact
 SRIRAM R
-www.linkedin.com/in/seis05640 | seis05640@gmail.com
+LinkedIn:www.linkedin.com/in/seis05640 | Email:seis05640
