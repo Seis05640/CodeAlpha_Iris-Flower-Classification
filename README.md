@@ -60,5 +60,5 @@ Thanks to **CodeAlpha** for providing this learning opportunity and guiding me t
 ## 📌 Contact
 
 **SRIRAM R**\
-[LinkedIn](www.linkedin.com/in/seis05640) | [Email](seis05640@gmail.com)
+[LinkedIn]:(www.linkedin.com/in/seis05640) | [Email]-(seis05640@gmail.com)
 
